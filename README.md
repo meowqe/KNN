@@ -32,6 +32,6 @@
 - Оценка качества модели с помощью метрики Accuracy
 
 ---
-Инструменты и библиотеки
+## Инструменты и библиотеки
 
 Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
